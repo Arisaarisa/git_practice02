@@ -14,3 +14,5 @@ def fizzbuzz_convert(number):
 assert fizzbuzz_convert(3) == 'Fizz'
 # fizzbuzz_convertが5の時Buzz
 assert fizzbuzz_convert(5) == 'Buzz'
+# fizzbuzz_convertが5の時Buzz
+assert fizzbuzz_convert(15) == 'FizzBuzz'
